@@ -173,4 +173,7 @@
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Saved Earbuds</string>
 
+    <!-- Home -->
+    <string name="wellbeing">Digital Wellbeing</string>
+
 </resources>
